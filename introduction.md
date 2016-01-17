@@ -23,3 +23,9 @@ The NASA Lunar Recovery Project
 + Variety Is it too unorganized to be useful? heterogenous in size/structure? What are the types, and are they described?
 + Veracity - the confidence in the data. How big is the error bar? is this a guess?
 + Value: What decisions can be made on this data, and how easy is it to turn this data into knowledge and value?
+
+
+#XDATA
+A company gives a full description of the dataset;
+
+LIFT: All Akami Edgescape data, all bitcoin, all Kiva, NBA, employment, etc.
