@@ -1,3 +1,4 @@
+#Day 2
 We are collecting more data than we can store. Everything is a sensor.
 
 Devices in our modern cell phones are evolving faster than the flash storage options; and that's why a 16GB camera isn't enough.
@@ -29,3 +30,7 @@ The NASA Lunar Recovery Project
 A company gives a full description of the dataset;
 
 LIFT: All Akami Edgescape data, all bitcoin, all Kiva, NBA, employment, etc.
+
+
+#Day 3 Jan 19
+The internet of things. Showed us a video of a hacker disabling and enabling features on cars
